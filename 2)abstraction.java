@@ -22,7 +22,6 @@ class UPI extends payment{
         System.out.println(amount+" "+"is processing from UPI");
     }
 }
-
 class Card extends payment
 {
     @Override
