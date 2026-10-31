@@ -3,7 +3,7 @@
          2. Keyword: The extends keyword is used to achieve hierarchical inheritance in Java.
          3. Code Reusability: All child classes can reuse the accessible variables and methods of the parent class.
          4. Independent Features: Each child class can have its own variables and methods in addition to inherited members.
-         5. Example: Bank → SavingsAccount and Bank → CurrentAccount. Java supports hierarchical inheritance using classes.    */
+         5. Example: Bank → SavingsAccount and Bank → CurrentAccount. Java supports hierarchical inheritance using classes.   */
 
 class Bank 
 {
